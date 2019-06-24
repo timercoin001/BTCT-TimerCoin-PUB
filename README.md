@@ -1,9 +1,27 @@
-Bitcoin Core integration/staging tree
+BTCT-TimerCoin
 =====================================
 
-[![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
+TimerCoin创建于2019/02/22，是一种基于BTC技术的新型电子货币，采用了P2P技术，去中心化，任何人都能够使用它
 
-https://www.bitcoin.org
+TimerCoin的重要特点：出块时间为10分钟，初始块奖励为100单位，挖矿奖励的数量根据挖掘高度的增加按比例减少，每个新区块的奖励数量都将微量减少
+
+TimerCoin如果保持15年不间断的挖矿，每个区块的产出将会从100不断减少至大约0.04，15年间的总量约为999万个
+
+提供多平台的版本：WINDOWS/MACOS/IOS/安卓/UBUNTU/CENTOS/等
+
+
+TimerCoin, founded in February 22, 2019, is a new electronic currency based on BTC technology. It adopts P2P technology and is decentralized. Anyone can use it.
+
+TimerCoin's important features: 10 minutes of block time, 100 units of initial block reward, the number of mining rewards decreases proportionally according to the increase of mining height, and the number of rewards for each new block will be reduced slightly.
+
+If Timer Coin keeps digging for 15 years, the output of each block will decrease from 100 to about 0.04, with a total of 9.99 million in 15 years.
+
+Provide multi-platform versions: WINDOWS/MACOS/IOS/Android/UBUNTU/CENTOS/etc.
+
+
+
+参考文件：
+=====================================
 
 What is Bitcoin?
 ----------------
@@ -13,9 +31,6 @@ anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see https://www.bitcoin.org/en/download.
 
 License
 -------
@@ -53,37 +68,6 @@ requests than we can review and test on short notice. Please be patient and help
 other people's pull requests, and remember this is a security-critical project where any mistake might cost people
 lots of money.
 
-### Automated Testing
-
-Developers are strongly encouraged to write unit tests for new code, and to
-submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: `make check`
-
-Every pull request is built for both Windows and Linux on a dedicated server,
-and unit and sanity tests are automatically run. The binaries produced may be
-used for manual QA testing — a link to them will appear in a comment on the
-pull request posted by [BitcoinPullTester](https://github.com/BitcoinPullTester). See https://github.com/TheBlueMatt/test-scripts
-for the build/test scripts.
-
-### Manual Quality Assurance (QA) Testing
-
-Large changes should have a test plan, and should be tested by somebody other
-than the developer who wrote the code.
-See https://github.com/bitcoin/QA/ for how to create a test plan.
-
-Translations
-------------
-
-Changes to translations as well as new translations can be submitted to
-[Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-
-Translations are periodically pulled from Transifex and merged into the git repository. See the
-[translation process](doc/translation_process.md) for details on how this works.
-
-**Important**: We do not accept translation changes as GitHub pull requests because the next
-pull from Transifex would automatically overwrite them again.
-
-Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
-
 Development tips and tricks
 ---------------------------
 
@@ -111,10 +95,3 @@ are testing multi-machine code that needs to operate across the internet.
 If you are testing something that can run on one machine, run with the -regtest option.
 In regression test mode, blocks can be created on-demand; see qa/rpc-tests/ for tests
 that run in -regtest mode.
-
-**DEBUG_LOCKORDER**
-
-Bitcoin Core is a multithreaded application, and deadlocks or other multithreading bugs
-can be very difficult to track down. Compiling with -DDEBUG_LOCKORDER (configure
-CXXFLAGS="-DDEBUG_LOCKORDER -g") inserts run-time checks to keep track of which locks
-are held, and adds warnings to the debug.log file if inconsistencies are detected.
