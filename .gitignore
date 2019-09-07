@@ -1,0 +1,5 @@
+
+src/qt/bitcoin-qt
+src/libbitcoin_server.a
+src/test/test_test_bitcoin-test_bitcoin.o
+src/test/test_bitcoin

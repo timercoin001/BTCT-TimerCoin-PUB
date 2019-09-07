@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 BTCT-TimerCoin
 =====================================
 
@@ -96,6 +95,3 @@ are testing multi-machine code that needs to operate across the internet.
 If you are testing something that can run on one machine, run with the -regtest option.
 In regression test mode, blocks can be created on-demand; see qa/rpc-tests/ for tests
 that run in -regtest mode.
-=======
-# BTCT-TimerCoin-PUB
->>>>>>> parent of a91a9b6... 第一次提交
