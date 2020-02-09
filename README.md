@@ -9,6 +9,8 @@ TimerCoin如果保持15年不间断的挖矿，每个区块的产出将会从100
 
 提供多平台的版本：WINDOWS/MACOS/IOS/安卓/UBUNTU/CENTOS/等
 
+如LOGO一样，未来BTCT基金将目光聚焦在：书、路、人，三个方向。体现在教育、交通、公益的行业价值，树立新的财富观。
+------
 
 TimerCoin, founded in February 22, 2019, is a new electronic currency based on BTC technology. It adopts P2P technology and is decentralized. Anyone can use it.
 
@@ -18,6 +20,8 @@ If Timer Coin keeps digging for 15 years, the output of each block will decrease
 
 Provide multi-platform versions: WINDOWS/MACOS/IOS/Android/UBUNTU/CENTOS/etc.
 
+Like logo, btct fund will focus on book, road and people in the future. It is reflected in the industry values of education, transportation and public welfare, and a new concept of wealth is established.
+------
 
 
 参考文件：
