@@ -102,5 +102,5 @@ that run in -regtest mode.
 
 make
 ----
-sudo apt-get update
+sudo apt-get update  
 sudo apt-get install build-essential libtool autotools-dev autoconf automake libssl-dev libboost-all-dev libdb-dev libdb++-dev pkg-config libevent-dev git-core
