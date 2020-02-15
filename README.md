@@ -9,7 +9,10 @@ TimerCoin's important features: 10 minutes of block time, 100 units of initial b
 TimerCoin如果保持15年不间断的挖矿，每个区块的产出将会从100不断减少至大约0.04，15年间的总量约999万个。  
 If Timer Coin keeps digging for 15 years, the output of each block will decrease from 100 to about 0.04, with a total of 9.99 million in 15 years.
 
-
+2020年起，BTCT网络使用新的端口：9339
+From 2020, the btct network will use a new port: 9339   
+  
+  
 LOGO的含义/Meaning of logo
 ------
 如LOGO一样，未来BTCT基金将目光聚焦在：书、路、人，三个方向。体现在教育、交通、公益的行业价值，树立新的财富观。  
