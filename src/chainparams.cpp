@@ -153,10 +153,10 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x2c9bc9bfc4e857b28742ed425c5c526c41e44075068d50dd1e6cc265c5041341"));
 
         vSeeds.push_back(CDNSSeedData("timercoin.com", "seeds.btct.timercoin.com"));
-        vSeeds.push_back(CDNSSeedData("daobook.org", "seeds.daobook.org"));
+        vSeeds.push_back(CDNSSeedData("daobook.org.cn", "seeds.daobook.org.cn"));
         vSeeds.push_back(CDNSSeedData("btct.cf", "seeds.btct.cf"));
-//        vSeeds.push_back(CDNSSeedData("bitcoinstats.com", "seed.bitcoinstats.com"));
-//        vSeeds.push_back(CDNSSeedData("xf2.org", "bitseed.xf2.org"));
+        vSeeds.push_back(CDNSSeedData("timercoin.org.cn", "seeds.btct.timercoin.org.cn"));
+        vSeeds.push_back(CDNSSeedData("quantstar.top", "seeds.btct.quantstar.top"));
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(0);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(5);
