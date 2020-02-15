@@ -4,13 +4,16 @@ TimerCoin创建于2019/02/22，是一种基于BTC技术的新型电子货币，�
 
 TimerCoin, founded in February 22, 2019, is a new electronic currency based on BTC technology. It adopts P2P technology and is decentralized. Anyone can use it.
 
+
 TimerCoin的重要特点：出块时间为10分钟，初始块奖励为100单位，挖矿奖励的数量根据挖掘高度的增加按比例减少，每个新区块的奖励数量都将微量减少。  
 
 TimerCoin's important features: 10 minutes of block time, 100 units of initial block reward, the number of mining rewards decreases proportionally according to the increase of mining height, and the number of rewards for each new block will be reduced slightly.
 
+
 TimerCoin如果保持15年不间断的挖矿，每个区块的产出将会从100不断减少至大约0.04，15年间的总量约999万个。
 
 If Timer Coin keeps digging for 15 years, the output of each block will decrease from 100 to about 0.04, with a total of 9.99 million in 15 years.
+
 
 2020年起，BTCT网络使用新的端口：9339  
 
