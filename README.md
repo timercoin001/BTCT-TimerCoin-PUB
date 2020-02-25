@@ -35,8 +35,7 @@ Provide multi-platform versions: WINDOWS/MACOS/IOS/Android/UBUNTU/CENTOS/etc.
 
    
 大事记/Chronicle of events
-
------
+------
 
 2019年2月22日，TimerCoin诞生  
 2019年6月20日，windows版本诞生  
@@ -49,6 +48,7 @@ On February 25, 2020, the block height reaches 13605
 
   
     
+  
       
       
 参考文件：
