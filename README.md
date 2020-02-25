@@ -44,9 +44,10 @@ Provide multi-platform versions: WINDOWS/MACOS/IOS/Android/UBUNTU/CENTOS/etc.
 Chronicle of events
 -----
 
-On February 22, 2019, timercoin was born
-On June 20, 2019, Windows version was born
-On February 25, 2020, the block height reaches 13605
+On February 22, 2019, timercoin was born  
+On June 20, 2019, Windows version was born  
+On February 25, 2020, the block height reaches 13605  
+  
 
   
     
