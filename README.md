@@ -34,16 +34,14 @@ Like logo, btct fund will focus on book, road and people in the future. It is re
 Provide multi-platform versions: WINDOWS/MACOS/IOS/Android/UBUNTU/CENTOS/etc.
 
    
-大事记
+大事记/Chronicle of events
+
 -----
 
 2019年2月22日，TimerCoin诞生  
 2019年6月20日，windows版本诞生  
 2020年2月25日，区块高度到达13605  
-
-Chronicle of events
------
-
+     
 On February 22, 2019, timercoin was born  
 On June 20, 2019, Windows version was born  
 On February 25, 2020, the block height reaches 13605  
